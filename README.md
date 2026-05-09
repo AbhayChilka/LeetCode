@@ -12,7 +12,7 @@ This repository contains:
 
 # LeetCode Profile
 
-🔗 [My LeetCode Profile](https://leetcode.com/your-username/)
+🔗 [leetcode/AbhayChilka/](https://leetcode.com/u/AbhayChilka/)
 
 ---
 
