@@ -90,9 +90,10 @@ O(1)
 because operations are usually performed in-place.
 
 ---
-
-| Remove Duplicates from Sorted Array | [Code](../Topics/Arrays/1-Easy/26-removeduplicate_sortedarray.c) |
-| Remove Element | [Code](../Topics/Arrays/1-Easy/27-remove_elements_from_array.c) |
+| Problem | Difficulty | LeetCode | Solution |
+|---|---|---|---|
+| Remove Duplicates from Sorted Array | Easy | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](../Topics/Arrays/1-Easy/26-removeduplicate_sortedarray.c) |
+| Remove Element | Easy | [Problem](https://leetcode.com/problems/remove-element/) | [Code](../Topics/Arrays/1-Easy/27-remove_elements_from_array.c) |
 
 ---
 
