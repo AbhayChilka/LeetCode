@@ -6,6 +6,15 @@ It helps reduce unnecessary iterations and often converts brute force solutions 
 
 ---
 
+# Problems-Solution
+
+| Problem | Difficulty | LeetCode | Solution |
+|---|---|---|---|
+| 26.Remove Duplicates from Sorted Array | Easy | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26-removeduplicate_sortedarray.c](../Topics/Arrays/1-Easy/26-removeduplicate_sortedarray.c) |
+| 27.Remove Element | Easy | [Problem](https://leetcode.com/problems/remove-element/) | [27-remove_elements_from_array.c](../Topics/Arrays/1-Easy/27-remove_elements_from_array.c) |
+
+---
+
 # When to Use
 
 Use Two Pointers when:
@@ -88,15 +97,6 @@ O(1)
 ```
 
 because operations are usually performed in-place.
-
----
-
-# Problems-Solution
-
-| Problem | Difficulty | LeetCode | Solution |
-|---|---|---|---|
-| 26.Remove Duplicates from Sorted Array | Easy | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26-removeduplicate_sortedarray.c](../Topics/Arrays/1-Easy/26-removeduplicate_sortedarray.c) |
-| 27.Remove Element | Easy | [Problem](https://leetcode.com/problems/remove-element/) | [27-remove_elements_from_array.c](../Topics/Arrays/1-Easy/27-remove_elements_from_array.c) |
 
 ---
 
