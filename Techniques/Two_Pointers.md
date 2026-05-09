@@ -91,12 +91,12 @@ because operations are usually performed in-place.
 
 ---
 
-# Problems-Solutions
+# Problems-Solution
 
 | Problem | Difficulty | LeetCode | Solution |
 |---|---|---|---|
-| Remove Duplicates from Sorted Array | Easy | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | (../Topics/Arrays/1-Easy/26-removeduplicate_sortedarray.c) |
-| Remove Element | Easy | [Problem](https://leetcode.com/problems/remove-element/) | (../Topics/Arrays/1-Easy/27-remove_elements_from_array.c) |
+| Remove Duplicates from Sorted Array | Easy | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26-removeduplicate_sortedarray.c](../Topics/Arrays/1-Easy/26-removeduplicate_sortedarray.c) |
+| Remove Element | Easy | [Problem](https://leetcode.com/problems/remove-element/) | [27-remove_elements_from_array.c](../Topics/Arrays/1-Easy/27-remove_elements_from_array.c) |
 
 ---
 
